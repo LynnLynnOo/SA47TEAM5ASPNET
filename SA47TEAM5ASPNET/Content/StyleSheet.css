@@ -1,0 +1,104 @@
+﻿.assigndimension {
+    height: 360px;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+
+.booktitles {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.defaultcontainer {
+    position: relative;
+    float: left;
+    margin-top: 20px;
+    width: 1100px;
+}
+
+.dropdownlist1, .SearchTextBox, .SearchButton {
+    position: relative;
+    float: left;
+    margin-top:15px;
+}
+
+.dropdownlist1 {
+    width: 15%;
+}
+
+.SearchTextBox {
+    width: 70%;
+}
+
+.SearchButton {
+    width: 10%;
+}
+
+
+.defaultSearch {
+    background-color: #d8d5d5;
+    width: 100%;
+    color: #333333;
+    height: 80px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 10px 0;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    float: left;
+}
+
+
+.plabel1 {
+    position: relative;
+    float: left;
+}
+
+.plabel2 {
+    position: relative;
+    float: left;
+    color: brown;
+}
+
+table.center {
+    width: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+.bookdetailsimg {
+    margin: 40px 0;
+}
+
+.bookshoplogo {
+    position: relative;
+    float: left;
+    height: 45px;
+    width: 171px;
+    margin-top: 10px;
+}
+.table.center{
+    width:30%;
+    margin-left:35%;
+    margin-right:35%;
+}
+
+.hidari {
+    position: relative;
+    float: left;
+    width: 550px;
+}
+
+.migi {
+    position: relative;
+    float: right;
+    width: 550px;
+    top: 0px;
+    left: 0px;
+}
+
+.PanelPadding fieldset {
+    padding: 20px;
+}
